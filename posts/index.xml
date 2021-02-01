@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Spikelu</title>
+    <link>https://spikelu.github.io/posts/</link>
+    <description>Recent content in Posts on Spikelu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 01 Feb 2021 22:29:33 +0800</lastBuildDate>
+    
+	<atom:link href="https://spikelu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>初</title>
+      <link>https://spikelu.github.io/posts/init/</link>
+      <pubDate>Mon, 01 Feb 2021 22:29:33 +0800</pubDate>
+      
+      <guid>https://spikelu.github.io/posts/init/</guid>
+      <description>『飽かず、惜しと思はば、千年を過ぐすとも、一夜の夢の心地こそせめ。』</description>
+    </item>
+    
+    
+  </channel>
+</rss>
